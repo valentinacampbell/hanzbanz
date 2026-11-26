@@ -33,5 +33,6 @@ body{margin:0;min-height:100vh;display:grid;place-items:center;background:#faf5e
 <path pathLength="1" d="M499 268 Q481 275 484 294 L511 333 L530 373 L555 366 L536 315 Q568 324 578 302 Q586 282 566 267 M512 280 Q528 278 536 315 M482 295 Q468 294 454 305 L443 319 L459 331 L490 316 M443 319 Q431 318 427 326 Q432 340 452 338 L463 332 M530 373 L529 388 Q535 407 552 403 Q565 396 565 381 L555 366 Z M535 384 Q546 376 559 385 M536 392 Q547 388 558 392"/>
 </g>
 </svg>
+<p class="memory">HAY i miss u and i love making these for u </p>
 <button onclick="const s=document.querySelector('svg'); const copy=s.cloneNode(true); s.replaceWith(copy)">draw again</button>
 </main></body></html>
